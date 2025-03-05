@@ -1,6 +1,6 @@
 ﻿namespace _JUEGO_NAVE
 {
-    partial class Form1
+    partial class game
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(game));
             this.TMR_1 = new System.Windows.Forms.Timer(this.components);
             this.OVNI = new System.Windows.Forms.PictureBox();
             this.BTN_DESPLAZAR = new System.Windows.Forms.Button();

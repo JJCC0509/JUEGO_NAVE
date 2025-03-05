@@ -11,12 +11,12 @@ using System.Windows.Forms;
 
 namespace _JUEGO_NAVE
 {
-    public partial class Form1 : Form
+    public partial class game : Form
     {
         int X = 100;
         bool dir = true;
 
-        public Form1()
+        public game()
         {
             InitializeComponent();
             this.Load += new EventHandler(form1_load);
