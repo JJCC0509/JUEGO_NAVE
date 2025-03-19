@@ -1,0 +1,20 @@
+D:\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\26 febrero.csproj.AssemblyReference.cache
+D:\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\bin\Debug\26 febrero.exe.config
+D:\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\bin\Debug\26 febrero.exe
+D:\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\bin\Debug\26 febrero.pdb
+D:\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\_JUEGO_NAVE.game.resources
+D:\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\_26_febrero.Properties.Resources.resources
+D:\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\26 febrero.csproj.GenerateResource.cache
+D:\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\26 febrero.csproj.CoreCompileInputs.cache
+D:\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\26 febrero.exe
+D:\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\26 febrero.pdb
+C:\Users\carva\Downloads\JUEGO_NAVE-master (2)\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\bin\Debug\26 febrero.exe.config
+C:\Users\carva\Downloads\JUEGO_NAVE-master (2)\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\bin\Debug\26 febrero.exe
+C:\Users\carva\Downloads\JUEGO_NAVE-master (2)\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\bin\Debug\26 febrero.pdb
+C:\Users\carva\Downloads\JUEGO_NAVE-master (2)\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\26 febrero.csproj.AssemblyReference.cache
+C:\Users\carva\Downloads\JUEGO_NAVE-master (2)\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\_JUEGO_NAVE.game.resources
+C:\Users\carva\Downloads\JUEGO_NAVE-master (2)\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\_26_febrero.Properties.Resources.resources
+C:\Users\carva\Downloads\JUEGO_NAVE-master (2)\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\26 febrero.csproj.GenerateResource.cache
+C:\Users\carva\Downloads\JUEGO_NAVE-master (2)\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\26 febrero.csproj.CoreCompileInputs.cache
+C:\Users\carva\Downloads\JUEGO_NAVE-master (2)\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\26 febrero.exe
+C:\Users\carva\Downloads\JUEGO_NAVE-master (2)\JUEGO_NAVE-master\JUEGO_NAVE-master\26 febrero\obj\Debug\26 febrero.pdb
